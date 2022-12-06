@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shosley1316
 - 👀 I’m interested in game programming, and 3d modeling. 
 - 🌱 I’m currently learning gdscript and Godot game engine. 
-- 💞️ I’m looking to collaborate on other similar languages like python. 
+- 💞️ I’m looking to collaborate on other similar languages as well like python. 
 - 📫 How to reach me hoss6084@gmail.com
 
 <!---
